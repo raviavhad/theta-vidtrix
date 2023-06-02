@@ -18,6 +18,24 @@ Vidtrix harnesses the powerful yet simple video API capabilities of Theta over d
 
 * Emotion capture for more proactive actions
 
+![image](https://github.com/raviavhad/theta-vidtrix/assets/20425788/c01c95d3-266c-422e-b571-0788552e9843)
+
+![image](https://github.com/raviavhad/theta-vidtrix/assets/20425788/a14070c1-928b-4bcf-bba8-0e177a44d10b)
+![image](https://github.com/raviavhad/theta-vidtrix/assets/20425788/2405ca50-9aca-49e6-8d26-043224ee1aa8)
+![image](https://github.com/raviavhad/theta-vidtrix/assets/20425788/41962f0c-9e18-4a60-8b46-4c2650ab291b)
+![image](https://github.com/raviavhad/theta-vidtrix/assets/20425788/b3fc68c9-a74e-4db2-b081-7280da0e2f23)
+![image](https://github.com/raviavhad/theta-vidtrix/assets/20425788/adc849ed-796e-4b14-b2ca-44a2a3829c24)
+![image](https://github.com/raviavhad/theta-vidtrix/assets/20425788/0b4643dd-0846-4452-91e0-468b72f708d7)
+
+![image](https://github.com/raviavhad/theta-vidtrix/assets/20425788/b7e798c2-b169-4bb0-a7b2-7b23b3cbb378)
+
+![image](https://github.com/raviavhad/theta-vidtrix/assets/20425788/8343f3e9-ce6d-4c83-a811-9f6e2094211b)
+
+![image](https://github.com/raviavhad/theta-vidtrix/assets/20425788/8893aac6-ab74-4b19-9191-a2b799036f88)
+
+![image](https://github.com/raviavhad/theta-vidtrix/assets/20425788/5ec485bb-a599-44ed-9412-57125b7173cf)
+
+
 
 ## How we built it
 The development of Vidtrix involved a collaborative effort, bringing together a talented team of developers, designers, and data scientists. The following steps were taken to build the platform:
